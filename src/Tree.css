@@ -1,0 +1,27 @@
+.tree {
+    display: inline-block;
+}
+
+.tree .husband {
+    background: #c7c7ff;
+}
+
+.tree .wife {
+    background: #ffd3f4;
+}
+
+.tree .husband,
+.tree .wife {
+    width: 200px;
+    margin: 10px auto;
+    padding: 20px;
+}
+
+.children .tree {
+    float: left;
+    margin: 30px 10px 0;
+}
+
+.children .tree:after {
+    clear: both;
+}

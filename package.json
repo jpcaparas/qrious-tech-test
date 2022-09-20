@@ -10,6 +10,8 @@
     "@types/node": "^16.11.59",
     "@types/react": "^18.0.20",
     "@types/react-dom": "^18.0.6",
+    "lodash": "^4.17.21",
+    "md5": "^2.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -41,6 +43,8 @@
     ]
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.185",
+    "@types/md5": "^2.3.2",
     "eslint": "8.22.0"
   }
 }
